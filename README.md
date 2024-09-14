@@ -1,5 +1,4 @@
-<p><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MD.%20Shoriful%20Islam&animation=fadeIn&stroke=1&desc=WELCOME%20to%20my%20stack&descSize=28&descAlignY=60&fontAlign=50&fontAlignY=40" /</p>
-
+<p><img src="https://i.ibb.co/cbtrxLf/github-header-image-1.png" alt="shoriful-stack" /></p>
 - 🔭 I’m currently working on **MedShop** (https://medi-nest.web.app/)
 
 - 🌱 I’m currently learning **PHP**
