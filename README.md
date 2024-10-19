@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **MedShop** (https://medi-nest.web.app/)
+- 🔭 I’m currently working on **HS Engineering and Technology Ltd.** (https://www.hsengineeringbd.com/)
 
 - 🌱 I’m currently learning **PHP**
 
