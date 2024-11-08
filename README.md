@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-stack&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://streak-stats.demolab.com/?user=shoriful-stack)(https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shoriful-stack&theme=neon&hide_border=false)
 
 
 ### 🔝 Top Contributed Repo
