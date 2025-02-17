@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **HS Engineering and Technology Ltd.** (https://www.hsengineeringbd.com/)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **MedShop** (https://medi-nest.web.app/)
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Javasript,PHP**
 
-- 📫 How to reach me: **sisazid182713@gmail.com**
+- 📫 How to reach me: **devshorifulsazid@gmail.com**
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
